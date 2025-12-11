@@ -1,0 +1,45 @@
+[
+  {
+    "key": "themeOverride",
+    "type": "local",
+    "purpose": "Theme selection",
+    "retention": "indefinite",
+    "evidence": [
+      {
+        "file": "content.js",
+        "start": 285,
+        "end": 285
+      },
+      {
+        "file": "options/options.js",
+        "start": 1,
+        "end": 2
+      },
+      {
+        "file": "content.js",
+        "start": 285,
+        "end": 285
+      },
+      {
+        "file": "options/options.js",
+        "start": 1,
+        "end": 1
+      },
+      {
+        "file": "options/options.js",
+        "start": 9,
+        "end": 26
+      }
+    ],
+    "found_by_models": [
+      "GPT-4.1",
+      "Claude-Sonnet-4",
+      "Gemini-2.5-Pro"
+    ],
+    "verified": true,
+    "verification_notes": "AUTO: Evidence 1: ✓ Found exact match in content.js; Evidence 2: ✓ Found exact match in options/options.js; Evidence 3: ✓ Found exact match in content.js; Evidence 4: ✓ Found exact match in options/options.js; Evidence 5: ✓ Found exact match in options/options.js",
+    "correct_key": "",
+    "correct_type": "",
+    "correct_purpose": ""
+  }
+]

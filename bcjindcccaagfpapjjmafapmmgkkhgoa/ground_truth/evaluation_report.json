@@ -1,0 +1,159 @@
+{
+  "ground_truth_stats": {
+    "network_endpoints": 0,
+    "messaging_channels": 0,
+    "storage_keys": 1
+  },
+  "model_results": [
+    {
+      "model": "GPT-4.1",
+      "network": {
+        "metrics": {
+          "true_positives": 0,
+          "false_positives": 0,
+          "false_negatives": 0,
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0
+        },
+        "details": {
+          "correct": [],
+          "missing": [],
+          "extra": []
+        }
+      },
+      "messaging": {
+        "metrics": {
+          "true_positives": 0,
+          "false_positives": 0,
+          "false_negatives": 0,
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0
+        },
+        "details": {
+          "correct": [],
+          "missing": [],
+          "extra": []
+        }
+      },
+      "storage": {
+        "metrics": {
+          "true_positives": 1,
+          "false_positives": 0,
+          "false_negatives": 0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0
+        },
+        "details": {
+          "correct": [
+            "themeOverride"
+          ],
+          "missing": [],
+          "extra": []
+        }
+      }
+    },
+    {
+      "model": "Claude-Sonnet-4",
+      "network": {
+        "metrics": {
+          "true_positives": 0,
+          "false_positives": 0,
+          "false_negatives": 0,
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0
+        },
+        "details": {
+          "correct": [],
+          "missing": [],
+          "extra": []
+        }
+      },
+      "messaging": {
+        "metrics": {
+          "true_positives": 0,
+          "false_positives": 0,
+          "false_negatives": 0,
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0
+        },
+        "details": {
+          "correct": [],
+          "missing": [],
+          "extra": []
+        }
+      },
+      "storage": {
+        "metrics": {
+          "true_positives": 1,
+          "false_positives": 0,
+          "false_negatives": 0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0
+        },
+        "details": {
+          "correct": [
+            "themeOverride"
+          ],
+          "missing": [],
+          "extra": []
+        }
+      }
+    },
+    {
+      "model": "Gemini-2.5-Pro",
+      "network": {
+        "metrics": {
+          "true_positives": 0,
+          "false_positives": 0,
+          "false_negatives": 0,
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0
+        },
+        "details": {
+          "correct": [],
+          "missing": [],
+          "extra": []
+        }
+      },
+      "messaging": {
+        "metrics": {
+          "true_positives": 0,
+          "false_positives": 0,
+          "false_negatives": 0,
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0
+        },
+        "details": {
+          "correct": [],
+          "missing": [],
+          "extra": []
+        }
+      },
+      "storage": {
+        "metrics": {
+          "true_positives": 1,
+          "false_positives": 0,
+          "false_negatives": 0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0
+        },
+        "details": {
+          "correct": [
+            "themeOverride"
+          ],
+          "missing": [],
+          "extra": []
+        }
+      }
+    }
+  ]
+}
