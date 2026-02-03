@@ -1,7 +1,7 @@
 # Evaluating Large Language Models for Browser Extension Security Analysis
 
 Evaluating LLM-assisted security analysis of browser extensions.
-Our submission to `LAST-X` workshop.
+Our submission to `SecDev` conference.
 
 ## Research Questions
 
